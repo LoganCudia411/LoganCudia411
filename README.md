@@ -9,7 +9,7 @@ I am an aspiring software developer interested in AI, Cybersecurity, and Embedde
 * 🌍  I'm based in Chicago, Illinois
 * ✉️  You can contact me at [llcudia2@illinois.edu](mailto:llcudia2@illinois.edu)
 * 🧠  I'm learning Cybersecurity and AI
-* 🤝  I'm open to collaborating on machine learning and fullstack development
+* 🤝  I'm open to collaborating on fullstack development
 
 ### Skills
 
