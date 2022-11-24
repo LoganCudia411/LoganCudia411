@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Logan Cudia
 ===================================================================================================================================
 
-Software Developer
+UIUC STUDENT (May 2025)
 ------------------
 
-I am an aspiring software developer interested in AI, Cybersecurity, and Embedded Software.
+I am an aspiring programmer interested in AI, Cybersecurity, and Embedded Software.
 
 * 🌍  I'm based in Chicago, Illinois
 * ✉️  You can contact me at [llcudia2@illinois.edu](mailto:llcudia2@illinois.edu)
