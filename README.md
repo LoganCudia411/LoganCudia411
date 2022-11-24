@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Logan Cudia
 ===================================================================================================================================
 
-UIUC STUDENT (May 2025)
+UIUC ECE (May 2025)
 ------------------
 
 I am an aspiring programmer interested in AI, Cybersecurity, and Embedded Software.
