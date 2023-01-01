@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UIUC ECE (May 2025)
 ------------------
 
-I am an aspiring programmer interested in AI, automation, and embedded software
+I am an aspiring programmer interested in AI, data engineering, and embedded software
 
 * 🌍  I'm based in Chicago, Illinois
 * ✉️  You can contact me at [llcudia2@illinois.edu](mailto:llcudia2@illinois.edu)
-* 🧠  I'm learning Cybersecurity and AI
+* 🧠  I'm learning ML and Python
 * 🤝  I'm open to collaborating on any software development projects
 
 ### Skills
