@@ -9,7 +9,7 @@ I am an aspiring programmer interested in AI, data engineering, and embedded sof
 * 🌍  I'm based in Chicago, Illinois
 * ✉️  You can contact me at [llcudia2@illinois.edu](mailto:llcudia2@illinois.edu)
 * 🧠  I'm learning ML and Python
-* 🤝  I'm open to collaborating on any software development projects
+* 🚀  I'm currently working on [Fire Alarm System](http://github.com/LoganCudia411/Fire_smoke_detector.git)
 
 ### Skills
 
