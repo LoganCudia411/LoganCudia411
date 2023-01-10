@@ -8,7 +8,7 @@ I am an aspiring programmer interested in AI, data engineering, and embedded sof
 
 * 🌍  I'm based in Chicago, Illinois
 * ✉️  You can contact me at [llcudia2@illinois.edu](mailto:llcudia2@illinois.edu)
-* 🧠  I'm learning ML and Deep Learning
+* 🧠  I'm learning ML and Nueral Networks
 * 🚀  I'm currently working on [Shocking Stickers](https://github.com/LoganCudia411/Shocking_Stickers.git)
 
 ### Skills
