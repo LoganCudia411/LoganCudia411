@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UIUC ECE (May 2025)
 ------------------
 
-I am an aspiring engineer interested in AI/ML, Networking, and Embedded Software
+I am an aspiring engineer interested in Systems Programming, Networking, and Embedded Software
 
 * 🌍  I'm based in Chicago, Illinois
 * ✉️  You can contact me at [llcudia2@illinois.edu](mailto:llcudia2@illinois.edu)
-* 🧠  I'm learning IOT and AI applications
+* 🧠  I'm learning OS design
 * 🚀  I'm currently working on [Shocking Stickers](https://github.com/LoganCudia411/Shocking_Stickers.git)
 
 ### Skills
